@@ -5,6 +5,10 @@
 - node.js
 > Python需要安装 execjs库 来执行js代码
 
+## 对应说明博客
+
+[https://www.charmcode.cn/article/2020-06-14_js_decryot](https://www.charmcode.cn/article/2020-06-14_js_decryot)
+
 ## 目录说明
 ```
 |____source_js.js      // 源js代码
